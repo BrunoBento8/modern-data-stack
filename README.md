@@ -1,23 +1,24 @@
-airbyte-dbt-airflow-snowflake-metabase
+#airbyte-dbt-airflow-snowflake-metabase
+
 Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stack com AirByte + DBT + Airflow + SnowFlake + Metabase
 
 Tarefas:
 
 Infraestrutura:
 
-Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) X
+- Setup do ambiente de desenvolvimento (Hardware, Software - Linux, Python, Docker, Curl, Pip, Git, Npm, etc...) X
 
-Setar as Permissoes do Gitpod ao Repositorio no Github X
+- Setar as Permissoes do Gitpod ao Repositorio no Github X
 
-Subir o Airbyte via docker X
+- Subir o Airbyte via docker X
 
-Subir o Airflow via docker X
+- Subir o Airflow via docker X
 
-Subir o Metabase via docker X
+- Subir o Metabase via docker X
 
-Criar o script de execução ?
+- Criar o script de execução ?
 
-Testar a Execução ?
+- Testar a Execução ?
 
 Snowflake Data Warehouse:
 
